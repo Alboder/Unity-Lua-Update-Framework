@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 505607853
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: editor
+      Dependencies: {}
